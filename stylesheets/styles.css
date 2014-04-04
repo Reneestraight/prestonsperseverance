@@ -8,7 +8,7 @@
 #nav {
 	  width: 60%;
 	  float: right;
-	  margin: 6em 4em 3em 0em;
+	  margin: 4em 4em 3em 0em;
 	  padding: 0;
 	  list-style: none;
 	  background-color: rgb(255,255,255); 
@@ -22,6 +22,12 @@
   color: black;
   text-align: center;
 }
+
+div
+{
+	display:inline;
+	margin: 2em 0 0 0; 
+}	
 
 Body 
 {
