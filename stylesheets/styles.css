@@ -5,10 +5,9 @@ body { margin:0; padding:0; }
 { 
 	background:#eee;
   	height:130px; 
-  	width: 500px;
   	aligh: center;
-  	left:20px; 
-  	right:50px;
+  	left:0px; 
+  	right:200px;
     position:absolute;
     width:100%;
     top:0; }
