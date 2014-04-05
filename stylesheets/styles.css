@@ -20,7 +20,7 @@ body
 {
 	line-height:60px; 
 	margin:0 auto; 
-	width:400px; 
+	width:600px; 
 	text-align:center; }
 
 #nav li {
@@ -44,9 +44,8 @@ body
 }
 
 #logo
-{ 
-	float: left;
-	width: 5%;
+{   margins: 5px
+	width: 100%;
 	position: absolute;
 }
  
