@@ -57,13 +57,13 @@ body
 
 #left
 {
-	width: 500px;
+	width: 700px;
 	float: left;
 }
 
 #right
 { 
-	width: 150px;
+	width: 280px;
 	float:right;
 }
 
