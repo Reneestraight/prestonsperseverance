@@ -1,10 +1,14 @@
-body { margin:0; padding:0; }
+body
+ { 
+	margin:0; 
+	padding:0; 
+	}
  
 
 #header_container 
 { 
 	background:#eee;
-  	height:130px; 
+  	height:150px; 
   	aligh: center;
   	left:0px; 
   	right:200px;
@@ -37,6 +41,13 @@ body { margin:0; padding:0; }
   text-decoration: none;
   color: black;
   font-family: "Comic Sans MS";
+}
+
+#logo
+{ 
+	float: left;
+	width: 5%;
+	position: absolute;
 }
  
 #container { margin:0 auto; overflow:auto; padding:80px 0; width:940px; }
