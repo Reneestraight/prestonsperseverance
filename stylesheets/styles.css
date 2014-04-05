@@ -1,13 +1,14 @@
 body { margin:0; padding:0; }
  
-/* Make Header Sticky */
+
 #header_container 
 { 
 	background:#eee;
   	height:130px; 
   	width: 500px;
   	aligh: center;
-  	left:20px; right:20px;
+  	left:20px; 
+  	right:50px;
     position:absolute;
     width:100%;
     top:0; }
@@ -16,7 +17,7 @@ body { margin:0; padding:0; }
 {
 	line-height:60px; 
 	margin:0 auto; 
-	width:940px; 
+	width:700px; 
 	text-align:center; }
 
 #nav li {
