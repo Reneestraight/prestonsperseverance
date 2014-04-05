@@ -23,8 +23,8 @@ body
 	text-align:center; }
 
 #nav li {
-	  float: left;
-  width: 10%;
+  	  width: 20%;
+  	  float: left;
 }
 
 #nav {
