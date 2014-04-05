@@ -70,7 +70,7 @@ body
 #walkwithus
 { 
 	width:100%;
-}
+	Align: center;
 }
  
 #footer_container { background:#eee; border:1px solid #666; bottom:0; height:60px; left:0; position:absolute; width:100%; }
