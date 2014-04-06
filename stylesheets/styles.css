@@ -71,6 +71,8 @@
 {
 	width: 20%;
 	float: left;
+	margin-left: 2em;
+	margin-right: 2em
 }
 
 #right
