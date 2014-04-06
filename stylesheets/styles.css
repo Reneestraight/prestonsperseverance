@@ -47,11 +47,11 @@ body
 	position: absolute;
 }
 
-#takespace
+#perseverancepic
 {
 	width: 100%;
-	height:160px;
-	float: left;
+	height:500px;
+	display: absloute;
 	overflow: hidden;
 }
 
