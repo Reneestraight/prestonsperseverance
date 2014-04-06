@@ -66,13 +66,19 @@
   display: block;
 }
 
+#contentcontainer
+{
+	width: 900px;
+	lenth: 400px;
+	display: block;
+	margins
+}
+
 }
 #left
 {
 	width: 50%;
 	float: left;
-	margin-left: 2em;
-	margin-right: 6em
 }
 
 #right
