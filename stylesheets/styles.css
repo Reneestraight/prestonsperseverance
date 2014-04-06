@@ -1,7 +1,7 @@
-body
+#body
  { 
-	margin:0; 
-	padding:0; 
+	margin:0px; 
+	padding:0px; 
 	}
  
 
@@ -10,8 +10,8 @@ body
 	background:#eee;
   	height:115px; 
   	aligh: center;
-  	left:200px; 
-  	right:200px;
+  	left:150px; 
+  	right:150px;
     position:absolute;
     top:0; }
     
@@ -19,7 +19,7 @@ body
 {
 	line-height:60px; 
 	margin:0 auto; 
-	width:900px; 
+	width:930px; 
 	text-align:center; }
 
 #nav li {
@@ -30,8 +30,8 @@ body
 #nav {
 	  width: 100%;
 	  float: left;
-	  margin: 3em 3em 0em 9em;
-	  padding: 0;
+	  margin: 2em 1em 0em 7em;
+	  padding: 0px;
 	  list-style: none; 
 }
 
@@ -46,15 +46,14 @@ body
 {   margins: 0px;
 	position: absolute;
 }
-
-#body
-{ 
-background-image:http://www.prestonsperseverance.com/uploads/2/6/2/0/26200230/1340168.jpg?870">
-;
-background-repeat:no-repeat;
-background-attachment:fixed;
-background-position:center; 
+	
+#definepic
+{
+  width: 870px;
+  margin-left: auto ;
+  margin-right: auto ;
 }
+
 
 }
 #left
