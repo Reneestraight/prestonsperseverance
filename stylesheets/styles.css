@@ -1,14 +1,14 @@
 #body
- { 
-	margin:0px; 
-	padding:0px;
-	background:aqua; 
-	}
+{
+	background-color: aqua;
+	width: 100%
+	height: 100%
+}
  
 #header_container 
 { 
 	background:#eee;
-  	height:115px; 
+  	height:140px; 
   	aligh: center;
   	left:150px; 
   	right:150px;
@@ -17,7 +17,7 @@
     
 #header
 {
-	line-height:60px; 
+	line-height:50px; 
 	margin:0 auto; 
 	width:930px; 
 	text-align:center; }
@@ -49,22 +49,23 @@
 
 #definepic
 {
-  width: 870px;
+  width: 1600px;
   margin-left: auto ;
   margin-right: auto ;
+  display: block;
 }
 
 
 }
 #left
 {
-	width: 700px;
+	width: 20%;
 	float: left;
 }
 
 #right
 { 
-	width: 280px;
+	width: 80%;
 	float:right;
 }
 
