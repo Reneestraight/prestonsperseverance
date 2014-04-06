@@ -30,8 +30,8 @@
 #nav {
 	  width: 100%;
 	  float: left;
-	  margin: 2em 1em 0em 7em;
-	  padding: 0px;
+	  margin: 2em 1em 0em 8em;
+	  padding: 0;
 	  list-style: none; 
 }
 
@@ -45,6 +45,11 @@
 #logo
 {   margins: 0px;
 	position: absolute;
+}
+
+#back
+{
+	position: absoluter;
 }
 
 #definepic
