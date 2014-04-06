@@ -1,10 +1,10 @@
 #body
  { 
 	margin:0px; 
-	padding:0px; 
+	padding:0px;
+	background:aqua; 
 	}
  
-
 #header_container 
 { 
 	background:#eee;
@@ -46,7 +46,7 @@
 {   margins: 0px;
 	position: absolute;
 }
-	
+
 #definepic
 {
   width: 870px;
