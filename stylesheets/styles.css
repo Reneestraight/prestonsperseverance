@@ -56,6 +56,16 @@ background-attachment:fixed;
 background-position:center; 
 }
 
+#definepiccontainer
+{
+	position:center;
+}
+
+#definepic
+{
+	postion:center;
+}
+
 }
 #left
 {
