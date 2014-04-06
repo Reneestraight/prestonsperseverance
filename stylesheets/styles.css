@@ -45,6 +45,7 @@
 #logo
 {   margins: 0px;
 	position: absolute;
+	float: left;
 }
 
 #definepic
