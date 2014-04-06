@@ -7,7 +7,7 @@
  
 #header_container 
 { 
-	background:#eee;
+	background:white;
   	height:100px; 
   	aligh: center;
   	left:100px; 
@@ -45,7 +45,6 @@
 #logo
 {   margins: 0px;
 	position: absolute;
-	float: left;
 }
 
 #definepic
