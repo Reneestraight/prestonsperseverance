@@ -52,8 +52,12 @@ body
 	width: 100%;
 	height:600px;
 	position: absloute;
-	display: center;
 	overflow: hidden;
+}
+
+#definitionpic
+{
+	float: center;
 }
 
 }
