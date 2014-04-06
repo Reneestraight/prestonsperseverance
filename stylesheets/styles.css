@@ -47,19 +47,13 @@ body
 	position: absolute;
 }
 
-#perseverancepic
-{
-	width: 100%;
-	height:600px;
-	position: absloute;
-	overflow: hidden;
-}
-
-#definepic
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
+body
+{ 
+background-image:http://www.prestonsperseverance.com/uploads/2/6/2/0/26200230/1340168.jpg?870">
+;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center; 
 }
 
 }
