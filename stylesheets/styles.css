@@ -52,10 +52,11 @@ body
 	width: 100%;
 	height:600px;
 	position: absloute;
-	diplay: center;
+	display: center;
 	overflow: hidden;
 }
 
+}
 #left
 {
 	width: 700px;
