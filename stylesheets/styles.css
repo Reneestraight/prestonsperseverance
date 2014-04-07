@@ -64,18 +64,3 @@
     padding: 10px 10px 10px 10px;
     height: auto;
 }
-#footer_container { 
-	background:#eee; 
-	border:1px solid #666; 
-	bottom:0; 
-	height:60px; 
-	left:0; 
-	position:absolute; 
-	width:100%;
-}
-#footer { 
-	line-height:60px; 
-	margin:0 auto; 
-	width:1100px; 
-	text-align:center; 
-}
