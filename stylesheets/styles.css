@@ -76,13 +76,18 @@
 }
 #leftfloated
 {
-	float: left;
+	display: inline-block;
+}
+
+#rightfloated
+{
 	display: inline-block;
 }
 
 #walkwithus
 { 
 	width:100%;
+	float: center;
 }
 }
  
