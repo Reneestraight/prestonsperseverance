@@ -68,23 +68,16 @@
 
 #contentcontainer
 {
-	width: 900px;
-	lenth: 400px;
-	display: block;
-	margins
+	width: 1100px;
+  	border: solid 1px black;
+  	margin-left: 8em;
 }
 
 }
-#left
+#leftfloated
 {
-	width: 50%;
 	float: left;
-}
-
-#right
-{ 
-	width: 80%;
-	float:right;
+	display: inline-block;
 }
 
 #walkwithus
