@@ -23,12 +23,12 @@
 #nav li	{
 	display:inline;
 	margin:0 0 0 10em;
-	padding:1px 0 0 0;
+	padding:1px 0 0 0 ;
 }
 #main	{
 	float:left;
-	width:700px;
-	padding:50px
+	width:480px;
+	padding:10px
 	background:aqua;
 }
 #h2	{
@@ -36,9 +36,8 @@
 }
 #sidebar	{
 	float:right;
-	width:300px;
-	padding:50px;
-	border-left:1px solid #000000;
+	width:230px;
+	padding:10px;
 	background:#c9c;
 }
 #footer	{
