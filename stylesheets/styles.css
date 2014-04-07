@@ -58,22 +58,24 @@
 	border-left: 4px solid #000000;	
 }
 #p	{
-	word-wrap: break-word;
-    position:justify;
     font-size: 10px;
-    font-family: Times new roman;
+    font-family: "comic Sans MS";
     width: 80%;
     padding: 10px 10px 10px 10px;
     height: auto;
-    overflow-x: auto;
-    color: #000;
 }
-#footer	{
-	clear:both;
-	padding: 5px 10px;
-	background:#cc9;
+#footer_container { 
+	background:#eee; 
+	border:1px solid #666; 
+	bottom:0; 
+	height:60px; 
+	left:0; 
+	position:absolute; 
+	width:100%;
 }
-#footer p	{
-	margin:0;
-}
+#footer { 
+	line-height:60px; 
+	margin:0 auto; 
+	width:1100px; 
+	text-align:center; 
 }
