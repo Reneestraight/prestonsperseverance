@@ -9,22 +9,23 @@
 	background:aqua;
 }
 #logo	{
-	margin:0;
+	margin:2em 0 8em 0em;
+	padding:0em 0em 0 0;
 }
 #nav	{
+	display:inline;
 	padding:5px 10px;
 	background:white;
 }
 #nav ul	{
-	margin:0 1em 1em 0;
-	padding:0 0 em 0;
+	margin:0 0em 1em 0;
+	padding:0 0 0em 0;
 	list-style:none;
 }
 #nav li	{
 	float:right;
-	display:inline;
-	margin:0 0 0 5em;
-	padding:0px 0 1em 0;
+	margin:0 0em 1em 4em;
+	padding:0px 0 0 0;
 }
 
 #nav li a	{
@@ -47,6 +48,7 @@
 	width:230px;
 	padding:10px;
 	background:#c9c;
+	border: 1px solid #00000;
 }
 #footer	{
 	clear:both;
