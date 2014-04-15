@@ -1,6 +1,12 @@
 #body	{
 	background-color: #000000;
 }
+.navbar-header	{
+	width: 980px;
+	margin-left: 3em;
+	margin-right: 3em;
+	
+}
 .navbar-brand,
 .navbar-nav li a {
     line-height: 150px;
