@@ -1,73 +1,9 @@
-#hopethisworkswrap	{
-		width:1100px;
-		margin-left:auto;
-		margin-right:auto;
-		background:white;
+#body	{
+	background-color: #000000;
 }
-#header	{
-	diplay:inline;
-	padding:5px	10px
-	background:aqua;
-}
-#logo	{
-	dipsplay:inline;
-	margin:0em 0 0em 0em;
-	padding:0em 0em 0 0;
-}
-#nav	{
-	padding:0px 0px;
-	background:white;
-}
-#nav ul	{
-	display:inline;
-	margin:0 0em 1em 0;
-	padding:0 0 0em 0;
-	list-style:none;
-}
-#nav li	{
-	float:right;
-	margin:0 0em 1em 4em;
-	padding:0px 0 0 0;
-}
-
-#nav li a	{
-	color:black;
-	font-family: "comic Sans MS";
-}
-	
-}
-#main	{
-	display:inline-block;
-	float:left;
-	width:350px;
-	padding:10px;
-	background:#99FFCC;
-}
-#h2	{
-	margin:0 0em 0em 0
-}
-#sidebar	{
-	display:inline-block;
-	float:right;
-	width:300px;
-	padding:5px 5px 5px 5px;
-	background:#66FFFF;
-	border-left: 4px solid #000000;	
-}
-#p	{
-    font-size: 10px;
-    font-family: "comic Sans MS";
-    width: 80%;
-    padding: 10px 10px 10px 10px;
-    height: auto;
-}
-#donate	{
-	 width: 100%;
- 	 margin-eft: auto;
- 	 margin-right: auto;
-}
-#footer	{
-	width:100%;
-	background:#000000;
-	
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 150px;
+    height: 150px;
+    padding-top: 0;
 }
